@@ -6,8 +6,6 @@
 |---|---|
 | Waldison | Integrante da equipe |
 | Joabe | Integrante da equipe |
-| Henzo | Integrante da equipe |
-| Maria Vitoria | Integrante da equipe |
 
 ## 1. Entendimento do problema
 
